@@ -3,6 +3,8 @@
 This project is licensed under the terms of the MIT [LICENSE](https://github.com/Pikridas/Intelligent-Elevator/blob/master/LICENSE).
 
 Copyright (c) 2021 MENELAOS PIKRIDAS.
+Copyright (c) 2021 KWNSTANTINOS STATHAKOPOULOS.
+Copyright (c) 2021 ANDREAS RHGAS.
 
 # Intelligent-Elevator
 University Assignment involving a building evacuation with the use of an elevator. The evacuation had some parameters though. The problem was solved using Artificial Intelligence and a great, mutual cooperation between three Undergraduate University Students. 
